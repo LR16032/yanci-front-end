@@ -1,0 +1,9 @@
+--comando para instalar SASS--
+npm install sass
+
+Esto es para que se utilize toda esta parte
+npm install -g sass
+
+--y aqui se lo envian--
+sass --watch sass/:css
+

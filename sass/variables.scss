@@ -1,0 +1,15 @@
+$primary: black;
+$secundary: black !default;
+$tono_celeste:deepskyblue;
+$tono_gris:gray;
+
+$poppins:'Poppins','sans-serif';
+$selector:'.pacman';
+$propiedad:'background-color';
+
+
+    #{$selector}{
+    #{$propiedad}:$secundary;
+
+}
+

@@ -1,0 +1,25 @@
+{
+  "name": "practica1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LR16032/yanci-front-end.git"
+  },
+  "keywords": [
+    "denis"
+  ],
+  "author": "denis",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LR16032/yanci-front-end/issues"
+  },
+  "homepage": "https://github.com/LR16032/yanci-front-end#readme",
+  "devDependencies": {
+    "sass": "^1.58.3"
+  }
+}
